@@ -1,5 +1,6 @@
 # lime
 
+
 [![Build Status](https://travis-ci.org/marcotcr/lime.svg?branch=master)](https://travis-ci.org/marcotcr/lime)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcotcr/lime/master)
 
@@ -19,6 +20,7 @@ The lime package is on [PyPI](https://pypi.python.org/pypi/lime). Simply run:
 
 ```sh
 pip install lime
+pip install git+https://github.com/aibharata/lime.git
 ```
 
 Or clone the repository and run:
